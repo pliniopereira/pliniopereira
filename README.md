@@ -25,10 +25,8 @@
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/gnu/gnu-ar21.svg"></code>](https://www.gnu.org/)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>](https://www.kernel.org/doc/html/latest/)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/archlinux/archlinux-ar21.svg"></code>](https://archlinux.org/)
-[<code><img height="50" src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg"></code>](https://www.vim.org/)
 
 
 ### Learning
 
-[<code><img height="50" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg"></code>](https://doc.rust-lang.org/std/index.html)
-[<code><img height="50" src="https://www.vectorlogo.zone/logos/dieselrs/dieselrs-ar21.svg"></code>](https://diesel.rs/)
+[<code><img height="50" src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg"></code>](https://www.vim.org/)
