@@ -1,11 +1,12 @@
 # Plínio Pereira
 
 [comment]: <Inspirado no README.md de https://github.com/librity/librity>
+[comment]: <Inspirado no README.md de https://github.com/rochacbruno/rochacbruno>
+[comment]: <Inspirado no README.md de https://github.com/massaaki/massaaki>
 
 [![Github](https://img.shields.io/github/followers/pliniopereira?label=Followers&style=social)](https://github.com/pliniopereira)
 [![Linkedin](https://img.shields.io/badge/-Plinio%20Pereira-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/pliniopereira/)](https://www.linkedin.com/in/pliniopereira/)
 [![Mail](https://img.shields.io/badge/-pliniojr@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:pliniojr@gmail.com)
-
 
 ## Cadet at [42 S. Paulo](https://www.42sp.org.br/)
 
@@ -30,3 +31,16 @@
 ### Learning
 
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg"></code>](https://www.vim.org/)
+
+---
+
+<center>
+  <table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pliniopereira&hide=html&layout=compact&show_icons=true&theme=gruvbox" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=pliniopereira&show_icons=true&theme=gruvbox" /></td>
+    </tr>
+  </table>
+</center>
+
+---
