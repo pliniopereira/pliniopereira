@@ -30,7 +30,7 @@
 
 ### Learning
 
-[<code><img height="50" src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg"></code>](https://www.vim.org/)
+[<code><img height="50" src="https://www.gnu.org/software/emacs/images/emacs.png"></code>](https://www.gnu.org/software/emacs/)
 
 ---
 
