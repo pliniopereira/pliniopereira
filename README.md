@@ -25,7 +25,7 @@
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>](https://docs.docker.com/compose/)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/gnu/gnu-ar21.svg"></code>](https://www.gnu.org/)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>](https://www.kernel.org/doc/html/latest/)
-[<code><img height="50" src="https://www.vectorlogo.zone/logos/archlinux/archlinux-ar21.svg"></code>](https://archlinux.org/)
+[<code><img height="50" src="https://github.com/lukas-w/font-logos/blob/master/vectors/manjaro.svg"></code>](https://manjaro.org/)
 
 
 ### Learning
