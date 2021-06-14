@@ -30,7 +30,7 @@
 
 ### Learning
 
-[<code><img height="50" src="https://www.gnu.org/software/emacs/images/emacs.png"></code>](https://www.gnu.org/software/emacs/)
+[<code><img height="50" src="https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg"></code>](https://neovim.io/)
 
 ---
 
