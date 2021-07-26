@@ -8,7 +8,7 @@
 [![Linkedin](https://img.shields.io/badge/-Plinio%20Pereira-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/pliniopereira/)](https://www.linkedin.com/in/pliniopereira/)
 [![Mail](https://img.shields.io/badge/-pliniojr@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:pliniojr@gmail.com)
 
-## Cadet at [42 S. Paulo](https://www.42sp.org.br/)
+## Cadet at [42 São Paulo](https://www.42sp.org.br/)
 ## Student at [Academia QADS - Ciência de Dados](https://br.qintess.com/academia-qads)
 
 ### Languages
