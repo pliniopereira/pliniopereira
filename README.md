@@ -30,7 +30,8 @@
 
 ### Learning
 
-[<code><img height="50" src="https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg"></code>](https://neovim.io/)
+[<code><img height="50" src="https://github.com/simple-icons/simple-icons/blob/master/icons/pandas.svg"></code>](https://pandas.pydata.org/)
+[<code><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"></code>](https://www.mysql.com/)
 
 ---
 
