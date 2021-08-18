@@ -31,8 +31,8 @@
 
 ### Learning
 
-[<code><img height="50" src="https://pandas.pydata.org/docs/_static/pandas.svg"></code>](https://pandas.pydata.org/)
-[<code><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>](https://www.mysql.com/)
+[<code><img height="50" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></code>](https://www.java.com)
+[<code><img height="50" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code>](https://flutter.dev/)
 
 ---
 
