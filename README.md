@@ -13,8 +13,8 @@
 ### Languages
 
 [<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg"></code>](https://devdocs.io/c/)
-[<code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>](https://www.python.org/doc/)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>](https://devdocs.io/bash/)
+[<code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>](https://www.python.org/doc/)
 
 ### Techs
 
@@ -27,6 +27,8 @@
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>](https://www.kernel.org/doc/html/latest/)
 
 ### Learning
+
+[<code><img height="50" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>](https://kotlinlang.org/)
 
 <!-- ---
 
