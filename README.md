@@ -29,6 +29,8 @@
 ### Learning
 
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>](https://kotlinlang.org/)
+[<code><img height="50" src="https://www.vectorlogo.zone/logos/datadoghq/datadoghq-ar21.svg"></code>](https://www.datadoghq.com/)
+
 
 <!-- ---
 
