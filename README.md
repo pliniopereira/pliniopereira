@@ -29,7 +29,9 @@
 ### Learning
 
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>](https://kotlinlang.org/)
+[<code><img height="50" src="https://upload.wikimedia.org/wikipedia/de/3/34/Hybris_(Unternehmen)_logo.svg"></code>](https://www.sap.com/acquired-brands/what-is-hybris.html)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/datadoghq/datadoghq-ar21.svg"></code>](https://www.datadoghq.com/)
+[<code><img height="50" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>](https://spring.io/)
 
 
 <!-- ---
