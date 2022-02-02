@@ -12,9 +12,9 @@
 
 ### Languages
 
-[<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg"></code>](https://devdocs.io/c/)
-[<code><img height="50" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>](https://devdocs.io/bash/)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>](https://www.python.org/doc/)
+[<code><img height="50" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg"></code>](https://devdocs.io/bash/)
+[<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg"></code>](https://devdocs.io/c/)
 
 ### Techs
 
@@ -29,9 +29,8 @@
 ### Learning
 
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>](https://kotlinlang.org/)
-[<code><img height="50" src="https://upload.wikimedia.org/wikipedia/de/3/34/Hybris_(Unternehmen)_logo.svg"></code>](https://www.sap.com/acquired-brands/what-is-hybris.html)
-[<code><img height="50" src="https://www.vectorlogo.zone/logos/datadoghq/datadoghq-ar21.svg"></code>](https://www.datadoghq.com/)
-[<code><img height="50" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>](https://spring.io/)
+[<code><img height="50" src="https://www.vectorlogo.zone/logos/amazon_kinesis/amazon_kinesis-ar21.svg"></code>](https://aws.amazon.com/pt/kinesis/)
+
 
 
 <!-- ---
