@@ -30,7 +30,7 @@
 
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/amazon_kinesis/amazon_kinesis-ar21.svg"></code>](https://aws.amazon.com/pt/kinesis/)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/datadoghq/datadoghq-ar21.svg"></code>](https://www.datadoghq.com/)
-[<code><img height="50" src="https://www.vectorlogo.zone/logos/scala-lang/scala-lang-ar21.svg"></code>](https://www.datadoghq.com/)
+[<code><img height="50" src="https://www.vectorlogo.zone/logos/scala-lang/scala-lang-ar21.svg"></code>](https://www.scala-lang.org/)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>](https://kotlinlang.org/)
 
 <!-- ---
