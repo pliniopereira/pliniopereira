@@ -1,15 +1,21 @@
-name: Metrics
 on:
-  # Schedule daily updates
-  schedule: [{cron: "0 0 * * *"}]
-  # (optional) Run workflow manually
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: "0 0 * * *"
   workflow_dispatch:
-  # (optional) Run workflow when pushing on master/main
-  push: {branches: ["master", "main"]}
+  
 jobs:
-  github-metrics:
+  metrics: 
     runs-on: ubuntu-latest
-    steps:
-      - uses: lowlighter/metrics@latest
+    steps: 
+      - name: Compact display
+        uses: lowlighter/metrics@latest
         with:
+          filename: metrics.plugin.achievements.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_threshold: C
+          plugin_achievements_display: compact 
