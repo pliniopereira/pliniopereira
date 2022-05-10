@@ -35,6 +35,10 @@
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/amazon_kinesis/amazon_kinesis-ar21.svg"></code>](https://aws.amazon.com/pt/kinesis/)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/serverless/serverless-ar21.svg"></code>](https://www.serverless.com/)
 
+## My achievments 🏆
+
+![Achievements](https://github.com/pliniopereira/pliniopereira/blob/main/metrics.plugin.achievements.svg)
+
 <!-- ---
 
 <center>
