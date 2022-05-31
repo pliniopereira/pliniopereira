@@ -8,8 +8,6 @@
 [![Linkedin](https://img.shields.io/badge/-Plinio%20Pereira-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/pliniopereira/)](https://www.linkedin.com/in/pliniopereira/)
 [![Mail](https://img.shields.io/badge/-pliniojr@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:pliniojr@gmail.com)
 
-[![My Datacamp Profile](https://img.shields.io/badge/Datacamp%20Profile-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)](https://www.datacamp.com/profile/pliniopereira)
-
 
 ## Back End Developer Intern at [AMARO](https://amaro.com/)
 
