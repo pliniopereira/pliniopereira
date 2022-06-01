@@ -26,14 +26,15 @@
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>](https://docs.docker.com/compose/)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/gnu/gnu-ar21.svg"></code>](https://www.gnu.org/)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>](https://www.kernel.org/doc/html/latest/)
+[<code><img height="50" src="https://www.vectorlogo.zone/logos/amazon_kinesis/amazon_kinesis-ar21.svg"></code>](https://aws.amazon.com/pt/kinesis/)
+[<code><img height="50" src="https://www.vectorlogo.zone/logos/serverless/serverless-ar21.svg"></code>](https://www.serverless.com/)
+
 
 ### Learning
 
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>](https://kotlinlang.org/)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/datadoghq/datadoghq-ar21.svg"></code>](https://www.datadoghq.com/)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>](https://aws.amazon.com/)
-[<code><img height="50" src="https://www.vectorlogo.zone/logos/amazon_kinesis/amazon_kinesis-ar21.svg"></code>](https://aws.amazon.com/pt/kinesis/)
-[<code><img height="50" src="https://www.vectorlogo.zone/logos/serverless/serverless-ar21.svg"></code>](https://www.serverless.com/)
 
 
 ### My achievments 🏆
