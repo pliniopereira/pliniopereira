@@ -1,3 +1,5 @@
+name: Metrics
+
 on:
   push:
     branches:
