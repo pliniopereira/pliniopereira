@@ -11,6 +11,7 @@ on:
 jobs:
   metrics: 
     runs-on: ubuntu-latest
+    timeout-minutes: 2
     steps: 
       - name: Detailed display
         uses: lowlighter/metrics@latest
