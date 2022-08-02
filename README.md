@@ -1,18 +1,17 @@
 # Plínio Pereira
 
 [comment]: <Inspirado no README.md de https://github.com/librity/librity>
-[comment]: <Inspirado no README.md de https://github.com/rochacbruno/rochacbruno>
-[comment]: <Inspirado no README.md de https://github.com/massaaki/massaaki>
 
 [![Github](https://img.shields.io/github/followers/pliniopereira?label=Followers&style=social)](https://github.com/pliniopereira)
 [![Linkedin](https://img.shields.io/badge/-Plinio%20Pereira-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/pliniopereira/)](https://www.linkedin.com/in/pliniopereira/)
 [![Mail](https://img.shields.io/badge/-pliniojr@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:pliniojr@gmail.com)
 
 
-## Back End Developer Intern at [AMARO](https://amaro.com/)
+## Back End Developer
 
 ### Languages
 
+[<code><img height="50" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>](https://kotlinlang.org/)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>](https://www.python.org/doc/)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg"></code>](https://devdocs.io/bash/)
 [<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg"></code>](https://devdocs.io/c/)
@@ -28,12 +27,11 @@
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>](https://www.kernel.org/doc/html/latest/)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/amazon_kinesis/amazon_kinesis-ar21.svg"></code>](https://aws.amazon.com/pt/kinesis/)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/serverless/serverless-ar21.svg"></code>](https://www.serverless.com/)
+[<code><img height="50" src="https://www.vectorlogo.zone/logos/datadoghq/datadoghq-ar21.svg"></code>](https://www.datadoghq.com/)
 
 
 ### Learning
-[<code><img height="50" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>](https://kotlinlang.org/)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>](https://spring.io/)
-[<code><img height="50" src="https://www.vectorlogo.zone/logos/datadoghq/datadoghq-ar21.svg"></code>](https://www.datadoghq.com/)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>](https://aws.amazon.com/)
 
 
