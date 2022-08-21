@@ -1,18 +1,22 @@
-# Plínio Pereira
+### Hello! I'm Plínio <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
-[comment]: <Inspirado no README.md de https://github.com/librity/librity>
+[comment]: <Inspirado no README.md de https://github.com/librity>
+[comment]: <Inspirado no README.md de https://github.com/gautamkrishnar>
 
+- 🔭 &nbsp;Becoming data engineer :wink:
+- 🌱 &nbsp;I’m currently learning Python, SQL.
+- ⚡ &nbsp;Fun fact: I'm a Dungeon Master since past millennium.
+
+### 📝 [Latest Blog Posts <a href="https://dev.to/pliniopereira" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="pliniopereira" height="30" width="40" /></a>](https://dev.to/pliniopereira)
+<!-- BLOG-POST-LIST:START -->
+- [Iniciando em Engenharia de dados](https://dev.to/pliniopereira/iniciando-em-engenharia-de-dados-p4h)
+<!-- BLOG-POST-LIST:END -->
+
+### Connect with me
 [![Github](https://img.shields.io/github/followers/pliniopereira?label=Followers&style=social)](https://github.com/pliniopereira)
 [![Linkedin](https://img.shields.io/badge/-Plinio%20Pereira-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/pliniopereira/)](https://www.linkedin.com/in/pliniopereira/)
 [![Mail](https://img.shields.io/badge/-pliniojr@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:pliniojr@gmail.com)
 
-
-## Back End Developer
-
-# Blog posts
-<!-- BLOG-POST-LIST:START -->
-- [Iniciando em Engenharia de dados](https://dev.to/pliniopereira/iniciando-em-engenharia-de-dados-p4h)
-<!-- BLOG-POST-LIST:END -->
 
 ### Languages
 
