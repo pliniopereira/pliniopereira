@@ -11,6 +11,7 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Iniciando em Engenharia de dados](https://dev.to/pliniopereira/iniciando-em-engenharia-de-dados-p4h)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages
