@@ -11,10 +11,10 @@
 
 ### Languages
 
-[<code><img height="50" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>](https://kotlinlang.org/)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>](https://www.python.org/doc/)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg"></code>](https://devdocs.io/bash/)
 [<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg"></code>](https://devdocs.io/c/)
+[<code><img height="50" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>](https://kotlinlang.org/)
 
 ### Techs
 
@@ -29,9 +29,7 @@
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/serverless/serverless-ar21.svg"></code>](https://www.serverless.com/)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/datadoghq/datadoghq-ar21.svg"></code>](https://www.datadoghq.com/)
 
-
 ### Learning
-[<code><img height="50" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>](https://spring.io/)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>](https://aws.amazon.com/)
 
 
