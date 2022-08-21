@@ -1,7 +1,7 @@
 name: Latest blog post
 on:
   schedule:
-    - cron: "7 0 */10 * *"
+    - cron: "7 0 */4 * *"
   workflow_dispatch:
 
 jobs:
