@@ -27,6 +27,7 @@
 
 ### Techs
 
+[<code><img height="30" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>](https://aws.amazon.com/)
 [<code><img height="30" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>](https://flask.palletsprojects.com/en/1.1.x/)
 [<code><img height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>](https://git-scm.com/doc)
 [<code><img height="30" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>](https://docs.github.com/en)
@@ -37,10 +38,6 @@
 [<code><img height="30" src="https://www.vectorlogo.zone/logos/amazon_kinesis/amazon_kinesis-ar21.svg"></code>](https://aws.amazon.com/pt/kinesis/)
 [<code><img height="30" src="https://www.vectorlogo.zone/logos/serverless/serverless-ar21.svg"></code>](https://www.serverless.com/)
 [<code><img height="30" src="https://www.vectorlogo.zone/logos/datadoghq/datadoghq-ar21.svg"></code>](https://www.datadoghq.com/)
-
-### Learning
-[<code><img height="30" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>](https://aws.amazon.com/)
-
 
 ### My achievments 🏆
 
