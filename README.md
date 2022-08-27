@@ -20,24 +20,24 @@
 
 ### Languages
 
-[<code><img height="30" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>](https://www.python.org/doc/)
-[<code><img height="30" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg"></code>](https://devdocs.io/bash/)
-[<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg"></code>](https://devdocs.io/c/)
-[<code><img height="30" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>](https://kotlinlang.org/)
+[<code><img height="40" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>](https://www.python.org/doc/)
+[<code><img height="40" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg"></code>](https://devdocs.io/bash/)
+[<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg"></code>](https://devdocs.io/c/)
+[<code><img height="40" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>](https://kotlinlang.org/)
 
 ### Techs
 
-[<code><img height="30" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>](https://aws.amazon.com/)
-[<code><img height="30" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>](https://flask.palletsprojects.com/en/1.1.x/)
-[<code><img height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>](https://git-scm.com/doc)
-[<code><img height="30" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>](https://docs.github.com/en)
-[<code><img height="30" src="https://www.vectorlogo.zone/logos/commonmark/commonmark-ar21.svg"></code>](https://www.markdownguide.org/getting-started)
-[<code><img height="30" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>](https://docs.docker.com/compose/)
-[<code><img height="30" src="https://www.vectorlogo.zone/logos/gnu/gnu-ar21.svg"></code>](https://www.gnu.org/)
-[<code><img height="30" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>](https://www.kernel.org/doc/html/latest/)
-[<code><img height="30" src="https://www.vectorlogo.zone/logos/amazon_kinesis/amazon_kinesis-ar21.svg"></code>](https://aws.amazon.com/pt/kinesis/)
-[<code><img height="30" src="https://www.vectorlogo.zone/logos/serverless/serverless-ar21.svg"></code>](https://www.serverless.com/)
-[<code><img height="30" src="https://www.vectorlogo.zone/logos/datadoghq/datadoghq-ar21.svg"></code>](https://www.datadoghq.com/)
+[<code><img height="40" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>](https://aws.amazon.com/)
+[<code><img height="40" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>](https://flask.palletsprojects.com/en/1.1.x/)
+[<code><img height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>](https://git-scm.com/doc)
+[<code><img height="40" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>](https://docs.github.com/en)
+[<code><img height="40" src="https://www.vectorlogo.zone/logos/commonmark/commonmark-ar21.svg"></code>](https://www.markdownguide.org/getting-started)
+[<code><img height="40" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>](https://docs.docker.com/compose/)
+[<code><img height="40" src="https://www.vectorlogo.zone/logos/gnu/gnu-ar21.svg"></code>](https://www.gnu.org/)
+[<code><img height="40" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>](https://www.kernel.org/doc/html/latest/)
+[<code><img height="40" src="https://www.vectorlogo.zone/logos/amazon_kinesis/amazon_kinesis-ar21.svg"></code>](https://aws.amazon.com/pt/kinesis/)
+[<code><img height="40" src="https://www.vectorlogo.zone/logos/serverless/serverless-ar21.svg"></code>](https://www.serverless.com/)
+[<code><img height="40" src="https://www.vectorlogo.zone/logos/datadoghq/datadoghq-ar21.svg"></code>](https://www.datadoghq.com/)
 
 ### My achievments 🏆
 
