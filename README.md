@@ -3,7 +3,7 @@
 [comment]: <Inspirado no README.md de https://github.com/librity>
 [comment]: <Inspirado no README.md de https://github.com/gautamkrishnar>
 
-- 🔭 &nbsp;Becoming data engineer :wink:
+- 🔭 &nbsp;Becoming a data engineer :wink:
 - 🌱 &nbsp;I’m currently learning Python, SQL.
 - ⚡ &nbsp;Fun fact: I'm a Dungeon Master since past millennium.
 
