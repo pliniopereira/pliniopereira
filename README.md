@@ -3,9 +3,7 @@
 [comment]: <Inspirado no README.md de https://github.com/librity>
 [comment]: <Inspirado no README.md de https://github.com/gautamkrishnar>
 
-- 🔭 &nbsp;Analytics Engineer | Data Engineer at PicPay :wink:
-- 🌱 &nbsp;I’m currently learning Python, SQL.
-- ⚡ &nbsp;Fun fact: I'm a Dungeon Master since past millennium.
+Profissional de Analytics Engineering e Data Engineering, com formação acadêmica em Análise e Desenvolvimento de Sistemas e Tecnologia da Informação. Atualmente, atuo como Data Engineer na equipe do Pipcay.
 
 ### 📝 [Latest Blog Posts <a href="https://dev.to/pliniopereira" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="pliniopereira" height="30" width="40" /></a>](https://dev.to/pliniopereira)
 <!-- BLOG-POST-LIST:START -->
@@ -19,26 +17,15 @@
 [![Mail](https://img.shields.io/badge/-pliniojr@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:pliniojr@gmail.com)
 
 
-### Languages
+#### Skills
 
-[<code><img height="40" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>](https://www.python.org/doc/)
-[<code><img height="40" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg"></code>](https://devdocs.io/bash/)
-[<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg"></code>](https://devdocs.io/c/)
-[<code><img height="40" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>](https://kotlinlang.org/)
-
-### Techs
-
-[<code><img height="40" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>](https://aws.amazon.com/)
-[<code><img height="40" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>](https://flask.palletsprojects.com/en/1.1.x/)
-[<code><img height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>](https://git-scm.com/doc)
-[<code><img height="40" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>](https://docs.github.com/en)
-[<code><img height="40" src="https://www.vectorlogo.zone/logos/commonmark/commonmark-ar21.svg"></code>](https://www.markdownguide.org/getting-started)
-[<code><img height="40" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>](https://docs.docker.com/compose/)
-[<code><img height="40" src="https://www.vectorlogo.zone/logos/gnu/gnu-ar21.svg"></code>](https://www.gnu.org/)
-[<code><img height="40" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>](https://www.kernel.org/doc/html/latest/)
-[<code><img height="40" src="https://www.vectorlogo.zone/logos/amazon_kinesis/amazon_kinesis-ar21.svg"></code>](https://aws.amazon.com/pt/kinesis/)
-[<code><img height="40" src="https://www.vectorlogo.zone/logos/serverless/serverless-ar21.svg"></code>](https://www.serverless.com/)
-[<code><img height="40" src="https://www.vectorlogo.zone/logos/datadoghq/datadoghq-ar21.svg"></code>](https://www.datadoghq.com/)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Shell_Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### My achievments 🏆
 
