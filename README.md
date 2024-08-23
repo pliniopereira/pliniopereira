@@ -7,6 +7,7 @@ Engenheiro de software, atuei junto com as equipes de Data Engineer e DataOps no
 
 ### 📝 [Latest Blog Posts <a href="https://dev.to/pliniopereira" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="pliniopereira" height="30" width="40" /></a>](https://dev.to/pliniopereira)
 <!-- BLOG-POST-LIST:START -->
+- [Estudos de Go / Golang](https://dev.to/pliniopereira/estudos-de-go-golang-143)
 - [+ foco em Engenharia de dados](https://dev.to/pliniopereira/-foco-em-engenharia-de-dados-175m)
 - [Iniciando em Engenharia de dados](https://dev.to/pliniopereira/iniciando-em-engenharia-de-dados-p4h)
 <!-- BLOG-POST-LIST:END -->
