@@ -3,7 +3,7 @@
 [comment]: <Inspirado no README.md de https://github.com/librity>
 [comment]: <Inspirado no README.md de https://github.com/gautamkrishnar>
 
-Engenheiro de software, atualmente, atuo junto com as equipes de Data Engineer e DataOps no PicPay Invest, onde aplico minha experiência e conhecimento em diversas ferramentas e tecnologias.
+Engenheiro de software, atuei junto com as equipes de Data Engineer e DataOps no PicPay Invest, onde aplico minha experiência e conhecimento em diversas ferramentas e tecnologias.
 
 ### 📝 [Latest Blog Posts <a href="https://dev.to/pliniopereira" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="pliniopereira" height="30" width="40" /></a>](https://dev.to/pliniopereira)
 <!-- BLOG-POST-LIST:START -->
