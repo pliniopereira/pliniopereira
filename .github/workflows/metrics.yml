@@ -11,7 +11,7 @@ jobs:
     timeout-minutes: 60
     steps:
       - name: Detailed achievements
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@v3.34
         with:
           filename: metrics.plugin.achievements.svg
           token: ${{ secrets.GITHUB_TOKEN }}
@@ -20,15 +20,4 @@ jobs:
           plugin_achievements_display: classic
           config_timezone: America/Sao_Paulo
 
-      - name: Compact achievements
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.achievements.compact.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-          plugin_achievements: yes
-          plugin_achievements_only: >
-            polyglot,stargazer,sponsor,deployer,member,maintainer,
-            developer,scripter,packager,explorer,infographile,manager
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: S
-          config_animations: no
+
