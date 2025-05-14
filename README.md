@@ -3,7 +3,8 @@
 [comment]: <Inspirado no README.md de https://github.com/librity>
 [comment]: <Inspirado no README.md de https://github.com/gautamkrishnar>
 
-Engenheiro de Dados Sênior com mais de 8 anos de experiência em projetos complexos e ambientes distribuídos. Tenho um histórico comprovado em empresas como PicPay e Minsait, onde colaborei com equipes multidisciplinares para otimizar processos e desenvolver soluções inovadoras.
+Engenheiro de Dados Sênior | Especialista em Redução de Custos Cloud (AWS & OCI)
+Python | SQL | 8+ anos de experiência em TI, incluindo 4+ anos focados em projetos de Engenharia de Dados.
 
 ### 📝 [Latest Blog Posts <a href="https://dev.to/pliniopereira" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="pliniopereira" height="30" width="40" /></a>](https://dev.to/pliniopereira)
 <!-- BLOG-POST-LIST:START -->
