@@ -1,26 +1,23 @@
 name: Achievements Metrics Update
 
 on:
-  workflow_dispatch:
   schedule:
     - cron: "0 2 * * 1"  # Toda segunda-feira 02:00 UTC (domingo 23:00 BRT)
+  workflow_dispatch:
 
 jobs:
-  achievements:
+  metrics:
     runs-on: ubuntu-latest
-    timeout-minutes: 30  # Tempo suficiente para execução
+    timeout-minutes: 3
     steps:
-      - name: Update Achievements Metrics
+      - name: Compact display
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.achievements.compact.svg
-          token: ${{ secrets.GITHUB_TOKEN }}  # Token padrão do GitHub
+          filename: metrics.plugin.achievements.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
           plugin_achievements: yes
-          plugin_achievements_only: >
-            polyglot,stargazer,sponsor,deployer,member,maintainer,
-            developer,scripter,packager,explorer,infographile,manager
+          plugin_achievements_threshold: C
           plugin_achievements_display: compact
-          plugin_achievements_threshold: C  # Bronze tier (valor válido)
           config_timezone: America/Sao_Paulo
-          config_random: yes  # Evita cache
-          config_animations: no  # Otimiza performance
+          config_random: yes
