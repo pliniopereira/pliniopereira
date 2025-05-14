@@ -73,11 +73,6 @@ Python | SQL | 8+ anos de experiência em TI, incluindo 4+ anos focados em proje
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-%2300ADD8.svg?style=for-the-badge&logo=scrumalliance&logoColor=white)
 
-
-### My achievments 🏆
-
-![Achievements](https://github.com/pliniopereira/pliniopereira/blob/main/metrics.plugin.achievements.svg)
-
 <!-- ---
 
 <center>
