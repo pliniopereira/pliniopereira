@@ -11,7 +11,7 @@ jobs:
     timeout-minutes: 30  # Tempo suficiente para execução
     steps:
       - name: Update Achievements Metrics
-        uses: lowlighter/metrics@v3.22.0  # Versão estável fixa
+        uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.achievements.compact.svg
           token: ${{ secrets.GITHUB_TOKEN }}  # Token padrão do GitHub
