@@ -1,21 +1,26 @@
-name: Achievements Metrics
+name: Achievements Metrics Update
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 2 * * 1"
+    - cron: "0 2 * * 1"  # Toda segunda-feira 02:00 UTC (domingo 23:00 BRT)
 
 jobs:
   achievements:
     runs-on: ubuntu-latest
-    timeout-minutes: 60
+    timeout-minutes: 30  # Tempo suficiente para execução
     steps:
-      - name: Detailed achievements
-        uses: lowlighter/metrics@v3.34
+      - name: Update Achievements Metrics
+        uses: lowlighter/metrics@v3.22.0  # Versão estável fixa
         with:
-          filename: metrics.plugin.achievements.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          filename: metrics.plugin.achievements.compact.svg
+          token: ${{ secrets.GITHUB_TOKEN }}  # Token padrão do GitHub
           plugin_achievements: yes
-          plugin_achievements_only: sponsor, maintainer, octonaut
+          plugin_achievements_only: >
+            polyglot,stargazer,sponsor,deployer,member,maintainer,
+            developer,scripter,packager,explorer,infographile,manager
           plugin_achievements_display: compact
+          plugin_achievements_threshold: C  # Bronze tier (valor válido)
           config_timezone: America/Sao_Paulo
+          config_random: yes  # Evita cache
+          config_animations: no  # Otimiza performance
