@@ -8,7 +8,7 @@ on:
 jobs:
   metrics:
     runs-on: ubuntu-latest
-    timeout-minutes: 3
+    timeout-minutes: 30
     steps:
       - name: Compact display
         uses: lowlighter/metrics@latest
@@ -20,4 +20,3 @@ jobs:
           plugin_achievements_threshold: C
           plugin_achievements_display: compact
           config_timezone: America/Sao_Paulo
-          config_random: yes
