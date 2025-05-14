@@ -11,15 +11,15 @@ jobs:
     timeout-minutes: 3
     steps:
       - name: Generate achievements
-        uses: lowlighter/metrics@v3.14.0  # Versão fixa para evitar bugs
+        uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.achievements.svg
-          token: ${{ secrets.GITHUB_TOKEN }}  # Use o token padrão
+          token: ${{ secrets.GITHUB_TOKEN }}
           plugin_achievements: yes
-          plugin_achievements_rank_threshold: D  # Rank mais baixo = mais conquistas
+          plugin_achievements_rank_threshold: D
           plugin_achievements_display: compact
-          plugin_achievements_limit: 0          # Mostrar todas as conquistas
-          plugin_achievements_secrets: true     # Incluir conquistas secretas
-          random: ${{ github.run_id }}          # Força recálculo a cada execução
-          base: content                         # Mantém conteúdo básico
-          config_timezone: America/Sao_Paulo    # Ajuste seu fuso horário
+          plugin_achievements_limit: 0
+          plugin_achievements_secrets: true
+          random: ${{ github.run_id }}
+          base: content
+          config_timezone: America/Sao_Paulo
