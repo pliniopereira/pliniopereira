@@ -59,10 +59,10 @@
 - **⚡ Incident Response**: Significantly improved incident response time through proactive monitoring
 
 ## 📊 GitHub Metrics
-![Metrics](https://github.com/pliniopereira/teste_ci/blob/main/metrics/metrics.svg)
+![Metrics](https://github.com/pliniopereira/pliniopereira/blob/main/metrics/metrics.svg)
 
 <!-- ## 💻 LeetCode Stats
-![LeetCode](https://github.com/pliniopereira/teste_ci/blob/main/metrics/leetcode.svg)
+![LeetCode](https://github.com/pliniopereira/pliniopereira/blob/main/metrics/leetcode.svg)
 -->
 
 ## 🌟 Featured Projects & Experience
