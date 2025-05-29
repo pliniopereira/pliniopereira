@@ -1,8 +1,77 @@
-name: Detailed display
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.plugin.achievements.svg
-  token: ${{ secrets.METRICS_TOKEN }}
-  base: ""
-  plugin_achievements: yes
-  plugin_achievements_only: sponsor, maintainer, octonaut
+name: Update Profile
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches: ["main"]
+
+permissions:
+  contents: write
+
+jobs:
+  check-and-update-blog:
+    name: Check for blog posts and update README
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Check if RSS feed has posts
+        id: check-feed
+        run: |
+          # Check if the RSS feed has any posts
+          response=$(curl -s -o /dev/null -w "%{http_code}" "https://dev.to/feed/pliniopereira")
+          if [ "$response" -eq 200 ]; then
+            # Get the feed content and check if it has actual posts
+            feed_content=$(curl -s "https://dev.to/feed/pliniopereira")
+            post_count=$(echo "$feed_content" | grep -c "<item>" || echo "0")
+            echo "Post count: $post_count"
+            if [ "$post_count" -gt 0 ]; then
+              echo "has_posts=true" >> $GITHUB_OUTPUT
+              echo "✅ Found $post_count blog posts"
+            else
+              echo "has_posts=false" >> $GITHUB_OUTPUT
+              echo "ℹ️ No blog posts found in RSS feed"
+            fi
+          else
+            echo "has_posts=false" >> $GITHUB_OUTPUT
+            echo "⚠️ RSS feed is not accessible (HTTP $response)"
+          fi
+
+      - name: Pull in dev.to posts
+        if: steps.check-feed.outputs.has_posts == 'true'
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://dev.to/feed/pliniopereira"
+
+      - name: Skip blog update
+        if: steps.check-feed.outputs.has_posts == 'false'
+        run: echo "⏭️ Skipping blog post update - no posts available"
+
+  github-metrics:
+    name: Generate GitHub metrics
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate general metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics/metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: pliniopereira
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: America/Sao_Paulo
+
+      - name: Generate LeetCode metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics/leetcode.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_leetcode: yes
+          plugin_leetcode_user: pliniopereira
+          plugin_leetcode_sections: solved, skills, recent
