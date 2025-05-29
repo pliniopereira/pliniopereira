@@ -95,14 +95,6 @@
 
 </div> -->
 
-## 🔗 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pliniopereira/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pliniopereira)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pliniojr@gmail.com)
-<!-- [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/pliniopereira) -->
-
-
 ## 💬 Let's Talk About
 
 I'm always interested in discussing:
@@ -113,8 +105,58 @@ I'm always interested in discussing:
 
 ---
 
-<div align="center">
+## 🔗 Connect With Me
 
-*"Building reliable data solutions that scale with business growth while optimizing for cost and performance"*
+### Quick Links
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pliniopereira/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pliniopereira)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pliniojr@gmail.com)
 
-</div>
+### 📬 Contact Information
+
+<table>
+  <thead>
+    <tr>
+      <th align="left">Platform</th>
+      <th align="left">Link</th>
+      <th align="left">Direct Access</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+      </td>
+      <td>
+        <a href="https://www.linkedin.com/in/pliniopereira/" target="_blank">Professional Profile</a>
+      </td>
+      <td>
+        <code>linkedin.com/in/pliniopereira</code>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+      </td>
+      <td>
+        <a href="https://github.com/pliniopereira" target="_blank">Code Repository</a>
+      </td>
+      <td>
+        <code>github.com/pliniopereira</code>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+      </td>
+      <td>
+        <a href="mailto:pliniojr@gmail.com">Send Message</a>
+      </td>
+      <td>
+        <code>pliniojr@gmail.com</code>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+💬 **Let's connect!** Feel free to reach out for collaborations, opportunities, or just to say hello!
