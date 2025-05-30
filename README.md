@@ -75,7 +75,7 @@
 ### 💰 **Cloud Cost Optimization Initiative**
 - **Achievement**: Strategic AWS to OCI migration with cost reduction
 - **Tools**: Oracle Data Pump, Terraform, Cloud monitoring tools
-- **Impact**: Zero-downtime migration for financial systems
+- **Impact**: Ensured business continuity during financial system migrations by minimizing downtime and overall impact
 
 ### 🔬 **Scientific Data Processing**
 - **Company**: INPE (Space Research Institute)
